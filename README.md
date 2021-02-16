@@ -1,4 +1,4 @@
-# PROJECT: BUILDING WITH ACTIVE RECORD
+# PROJECT: Members-only
 
 
 ## Ruby Version
